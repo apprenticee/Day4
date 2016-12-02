@@ -1,0 +1,82 @@
+1)
+What is El Nino and why does it have so much influence over our weather?
+
+El Nino is an ocean and atmospheric phenomenon that has a significant impact on our planet's weather.
+
+While an El Nino event influences the whole world, the main effect is on the Pacific area, especially Australia, Indonesia and south-west America.
+
+"During El Nino we have the droughts in western Pacific counties, like Indonesia and Australia," says Dr Wenju Cai, a senior principal research scientist at CSIRO Wealth from Oceans Flagship.
+
+"But in other places — like Ecuador and Peru — these normally dry areas suddenly get a lot of rain.
+
+"In the US, in California they experience flooding during El Nino events."
+
+El Nino also results in a hotter average temperature for the whole planet by about 0.1 to 0.2 degrees, because the associated change in winds lead to the release of heat from the ocean to the atmosphere.
+
+The two strongest El Ninos that we know of were in 1982-83 and 1997-98.
+
+Dubbed "super El Ninos", both these events had significant global impacts.
+
+"In 1982-83, Australia suffered one of the biggest droughts and we had the Ash Wednesday bushfires and Melbourne was covered by the dust storm," Dr Cai said.
+
+"In 1997, over 23,000 people were killed due to extreme events, droughts, floods, cyclones."
+
+The 1982 El Nino caught countries around the Pacific completely unaware and prompted data gathering and research that lead to our current understanding of El Nino, Dr Cai said.
+
+What causes an El Nino?
+
+Typically, an El Nino develops around May/June, strengthens through September/October and November to peak over December/January, then starts to decay in late February with weather conditions returning to normal around March.
+
+The shift from normal — or neutral — conditions to an El Nino (or its opposite — La Nina) is governed by a complex combination of atmospheric and oceanic events.
+
+This sets up a temperature gradient — or thermocline — across the ocean with the eastern Pacific significantly colder than the western Pacific.
+
+It also creates what we consider to be normal climatic conditions — a rain band in the western Pacific, bringing rainfall to eastern Australia.
+
+During an El Nino the temperature gradient is reduced, and the water in the eastern Pacific is warmer than normal.
+
+But what causes an El Nino to start "is the subject of debate," Dr Cai said.
+
+"One of the scenarios is that a little bit of weakening in the easterly wind would make the warm water flow to the east, and once it flows to the east then the temperature gradient across the Pacific changes," he said.
+
+The wind may return to a normal pattern, but the ocean has a longer memory and is slower to recover. And before the ocean recovers, another weather event may occur that changes the wind again.
+
+"An accumulation of a number of such events would then lead to a mean westerly wind developing, weakening the temperature gradient, in turn generating bigger westerly winds and a positive feedback," Dr Cai said.
+
+In addition to ocean temperatures and wind directions, scientists also monitor an atmospheric indicator called the Southern Oscillation Index (SOI) — which is defined as the air pressure at Tahiti minus the air pressure at Darwin, and is often reported on the news.
+
+During El Nino the SOI is negative, as Tahiti has a lower air pressure than Darwin. This air pressure pattern is associated with wetter weather in Tahiti and drier weather in Australia and the western Pacific.
+
+Frequency and severity
+
+Scientists now have a very good idea of how El Nino will be affected by climate change, Dr Cai said, and it is not looking great.
+
+"Under climate change the frequency of extreme El Nino events will double - to one every 10 years".
+
+The reason behind this is that the eastern equatorial Pacific Ocean — which is normally cooler than the west — is warming exceptionally fast, making it more likely that El Ninos will develop.
+
+Another important factor in understanding the severity of an El Nino in Australia is the Indian Ocean dipole, a measure of sea surface temperature difference in the Indian Ocean.
+
+The Indian Ocean dipole, in its positive phase, features cooler than usual ocean temperatures in the eastern Indian Ocean.
+
+This results in reduced rainfall in southern Australia and south eastern Australia — and subsequently drought and bushfires.
+
+"Our bushfires are actually preconditioned by the Indian Ocean dipole, if there is an Indian Ocean dipole then the bushfire season will be more severe," Dr Cai said.
+
+A positive Indian Ocean dipole often occurs with an El Nino, which can magnify the impact, although they can also occur independently.
+--------------vocabulary--------------
+drought 可数名词 干旱
+bushfire 丛林大火
+cyclone n.飓风
+severity n.严重
+equatorial adj.赤道的 
+rainfall n.降雨
+magnify the impact
+
+--------------trend sentence----------
+Typically, an El Nino develops around May/June, strengthens through September/October and November to peak over December/January, then starts to decay in late February with weather conditions returning to normal around March.
+趋势词汇
+develops around
+strengthens through
+peak over
+starts to decay
